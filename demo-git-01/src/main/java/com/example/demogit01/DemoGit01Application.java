@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoGit01Application {
 
 	public static void main(String[] args) {
+		System.out.println("332222222");
 		SpringApplication.run(DemoGit01Application.class, args);
 	}
 
