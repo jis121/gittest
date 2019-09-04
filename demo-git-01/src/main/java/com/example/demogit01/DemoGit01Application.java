@@ -20,6 +20,11 @@ public class DemoGit01Application {
 		System.out.println("119");
 		System.out.println("911");
 		System.out.println("912");
+		//我是一只小小鸟
+		//fly not high
+		//sdffffddd
+		//1
+		//2
 		SpringApplication.run(DemoGit01Application.class, args);
 	}
 
